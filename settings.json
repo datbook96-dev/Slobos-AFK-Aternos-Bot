@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "datbook2010.aternos.me",
-    "port": 27586,
+    "port": 56999,
     "version": "1.21.4",
     "try-creative": false
   },
